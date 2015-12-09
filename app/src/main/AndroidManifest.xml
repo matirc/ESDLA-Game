@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.matirc.esdla_game" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconoapp"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Pagina1" />
+        <activity android:name=".Pagina2" />
+        <activity android:name=".Pagina3" />
+        <activity android:name=".Pagina4" />
+        <activity android:name=".Pagina5" />
+        <activity android:name=".Pagina6" />
+        <activity android:name=".Pagina7"></activity>
+    </application>
+
+</manifest>

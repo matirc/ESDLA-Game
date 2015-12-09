@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ESDLA-Game</string>
+    <string name="pregunta1">¿Cuántos años cumple el señor Bolsón? </string>
+    <string name="pregunta2">¿De que descienden los orcos? </string>
+    <string name="pregunta3">¿Como se conoce al famoso ojo? </string>
+    <string name="pregunta4">¿Qué titulo le dieron durante la saga? </string>
+    <string name="pregunta5">¿Como fueron recogidos del monte del destino? </string>
+    <string name="opciona">102</string>
+    <string name="opcionb">111</string>
+    <string name="botonivolver">Vuelve a empezar!</string>
+    <string name="elf">Elfo</string>
+    <string name="Goblin">Goblin</string>
+    <string name="saruman">Saruman</string>
+    <string name="sauron">Sauron</string>
+    <string name="reygondor">Rey de Gondor</string>
+    <string name="reyrohan">Rey de Rohan</string>
+    <string name="eagle">Aguilas</string>
+    <string name="horse">Caballos</string>
+
+
+    <string name="texto1">Al comienzo de todo, Bilbo Bolsón celebraba su cumpleaños, pero..."</string>
+
+    <string name="texto2">La comunidad debe luchar contra los orcos , que constituyen el grueso de las tropas de los dos líderes , junto con los trolls , los seres humanos de otras regiones , y los mûmakil. "</string>
+
+    <string name="texto3">La respuesta es incorrecta. Por favor verifique su respuesta de nuevo :)</string>
+
+    <string name="texto4">Sauron es el protagonista y el antagonista principal de la novela El Señor de los Anillos , se convirtió en señor de los anillos para forjar el Anillo Único</string>
+
+    <string name="texto5">Un miembro de la comunidad del anillo , es un montaraz del Norte llamado Aragorn :</string>
+
+    <string name="texto6">La escena final con la destrucción del Anillo Único , termina con una conversación emocional entre Frodo y Sam, pero ...</string>
+
+    <string name="texto7">¡Felicidades! Tienes razón todas las preguntas son correctas , usted es un verdadero luchador de la Tierra Media !</string>
+
+
+</resources>

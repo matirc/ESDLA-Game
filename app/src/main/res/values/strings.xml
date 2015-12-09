@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ESDLA-Game</string>
+    <string name="pregunta1">How old met Mr. Baggins ? </string>
+    <string name="pregunta2">In what creature descended originally orcs ? </string>
+    <string name="pregunta3">How is it known his famous eye? </string>
+    <string name="pregunta4">What title was given during the series? </string>
+    <string name="pregunta5">How they were collected from Mount Doom ? </string>
+    <string name="opciona">102</string>
+    <string name="opcionb">111</string>
+    <string name="botonivolver">Come back!</string>
+    <string name="elf">Elf</string>
+    <string name="Goblin">Goblin</string>
+    <string name="saruman">Saruman</string>
+    <string name="sauron">Sauron</string>
+    <string name="reygondor">King of Gondor</string>
+    <string name="reyrohan">King of Rohan</string>
+    <string name="eagle">Eagles</string>
+    <string name="horse">Horses</string>
+
+
+    <string name="texto1">At the beginning the film, Bilbo Baggins celebrated his birthday party in the region , but exactly ..."</string>
+
+    <string name="texto2">The community must fight the orcs, they constitute the bulk of the troops of the two leaders , along with trolls, humans of various countries , and other loved mûmakil. "</string>
+
+    <string name="texto3">The answer is incorrect. Please check your answer again :)</string>
+
+    <string name="texto4">Sauron is the title character and the main antagonist of the novel The Lord of the Rings, he became Lord of the Rings to forge the One Ring</string>
+
+    <string name="texto5">One member of the Fellowship of the Ring , is a Ranger from the North called Aragorn :</string>
+
+    <string name="texto6">The final scene with the destruction of the One Ring , ends with an emotional conversation between Frodo and Sam , but ...</string>
+
+    <string name="texto7">Congratulations! You are right all the questions correctly , you are a true fighter of Middle Earth !</string>
+
+
+</resources>
